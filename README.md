@@ -8,6 +8,8 @@ npm start
 
 Frontend will run on port 3000
 
+Github link: https://github.com/raghav170101/resume_builder
+
 # Resume_builder
 
 Makes resume in a easy and consise form 
