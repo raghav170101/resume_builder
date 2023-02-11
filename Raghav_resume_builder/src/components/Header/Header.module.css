@@ -1,0 +1,40 @@
+.container{
+  padding: 50px 30px; 
+  text-align: center;
+  width: 100% ;
+  display: flex;
+  align-items:center;
+  justify-content: space-evenly;
+  gap: 30px;
+  background-color: rgb(110, 159, 168);
+  min-height: 80vh;
+}
+
+.heading{
+  margin:0 auto;
+  max-width: 500px;
+  background-color: blueviolet;
+  background-clip: text;
+  color: transparent;
+  line-height: 4.5rem;
+  font-size: 3.1rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.heading span{
+  background-clip: text;
+  background-image: linear-gradient(to right,#1b1be2,#26a6b9);
+  /* color: transparent; */
+}
+/*The linear-gradient() function sets a linear gradient as the background image.
+To create a linear gradient you must define at least two color stops. Color stops 
+are the colors you want to render smooth transitions among. You can also set a starting point and a direction 
+(or an angle) along with the gradient effect.*/
+
+
+
+
+.right img{
+  width: 400px;
+}
